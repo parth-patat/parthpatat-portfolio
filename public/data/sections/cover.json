@@ -1,0 +1,68 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Hello!...",
+                "title_short_nav": "About me",
+                "title_long_prefix": "A quick snapshot of what drives me...",
+                "title_long": "Hello, I'm {{Parth Patat}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 480
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Linkedin",
+                    "link": {"href": "https://www.linkedin.com/in/parth-patat", "tooltipString": "connect_with_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 2,
+                    "label": "United States",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "fa-regular fa-address-book"
+                },
+                {
+                    "id": 3,
+                    "label": "parth0140101@gmail.com",
+                    "link": {"href": "mailto:parth0140101@gmail.com", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "{{A little bit}} about me..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/content/coverPhoto.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": "", "fillLight": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>A product-driven {{Software Engineer}} with around 3 years of experience in developing scalable enterprise-grade web applications and microservices. Proven expertise in {{Full-Stack Development}}, coupled with strong {{DevOps}} practices and {{Cloud Architecture}} skills.</p> <p>I bring a solid grounding in {{Data Structures and Algorithms}}, applying them to build solutions that emphasize [[scalability]], [[concurrency]], and robust {{API design}} while maintaining clean {{Data Modeling}} and {{Distributed systems}}.</p> <p>My approach is complemented by a strong commitment to [[software quality]], leveraging both testing methodologies and automated testing frameworks to ensure maintainability and reliability in production. Beyond technical expertise, I value clear [[communication]], attention to detail and effective [[teamwork]], and I bring a genuine passion for tackling sophisticated engineering challenges.</p><p> Seeking a challenging opportunity to leverage my skills and expand them far beyond the horizon.</p>"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

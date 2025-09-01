@@ -1,0 +1,95 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Projects",
+                "title_short_nav": "Projects",
+                "title_long_prefix": "Some ideas turned into code...",
+                "title_long": "Personal {{Projects}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": ""
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-file-code",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/parth-patat/api_directory", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "", "faIcon": ""}
+                        ],
+                        "screenshots": [
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "", "tooltipString": "", "faIcon": ""}
+                        ],
+                        "screenshots": [
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

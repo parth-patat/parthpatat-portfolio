@@ -1,0 +1,69 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Education",
+                "title_short_nav": "Education",
+                "title_long_prefix": "The classrooms that shaped my curiosity...",
+                "title_long": "Educational {{Background}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {
+                "en": {
+                    "title": ""
+                }
+            },
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/icons/asu.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+                    "dateStart": {"year": 2022, "month": 8},
+                    "dateEnd": {"year": 2024, "month": 5},
+                    "locales": {
+                        "en": {
+                            "title": "Masters of Science in {{Information Technology}}",
+                            "province": "Tempe, Arizona",
+                            "country": "USA",
+                            "institution": "Arizona State University",
+                            "text": "Coursework:",
+                            "tags": [
+                                "Agile Methods & DevOps", "Project Management", "Cloud Architecture", "Big Data Analytics", "Information Systems Management", "Advanced DBMS", "Data Visualization", "Computer Architecture", "Middleware", "Probability & Statistics", "Data in Cloud", "NLP"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/icons/gtu.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "#000", "bgLight": "#000", "fill": "#FFF", "fillLight": "#FFF"},
+                    "dateStart": {"year": 2018, "month": 8},
+                    "dateEnd": {"year": 2022, "month": 5},
+                    "locales": {
+                        "en": {
+                            "title": "Bachelors of Technology in {{Computer Engineering}}",
+                            "province": "Ahmedabad, Gujarat",
+                            "country": "India",
+                            "institution": "Gujarat Technological University",
+                            "text": "Coursework:",
+                            "tags": [
+                                "Data Structures & Algorithms", "Object Oriented Programming", "Software Engineering", "Computer Organization and Architecture", "Database Management Systems", "Computer Network", "Cyber Security", "Operating Systems", "Advanced Java", "Web Programming", "Mathematics", "Probability & Statistics"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
