@@ -1,0 +1,291 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Skills",
+                "title_short_nav": "Skills",
+                "title_long_prefix": "The tools & tech in my kit...",
+                "title_long": "Technical {{Skills}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Programming}} Languages"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/icons/java.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Java"}}
+                },
+                {
+                    "id": 2,
+                    "img": "images/icons/c++.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "C++"}}
+                },
+                {
+                    "id": 3,
+                    "img": "images/icons/csharp.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "C#"}}
+                },
+                {
+                    "id": 4,
+                    "img": "images/icons/python.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Python"}}
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "SQL"}}
+                },
+                {
+                    "id": 6,
+                    "img": "images/icons/javascript.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "JavaScript"}}
+                },
+                {
+                    "id": 7,
+                    "img": "images/icons/typescript.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "TypeScript"}}
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Frameworks}} & Libraries"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/icons/spring.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "SpringBoot"}}
+                },
+                {
+                    "id": 2,
+                    "img": "images/icons/hibernate.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Hibernate"}}
+                },
+                {
+                    "id": 3,
+                    "img": "images/icons/express.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "ExpressJS"}}
+                },
+                {
+                    "id": 4,
+                    "img": "images/icons/reactjs.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "ReactJS"}}
+                },
+                {
+                    "id": 5,
+                    "img": "images/icons/angular.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "AngularJS"}}
+                },
+                {
+                    "id": 6,
+                    "img": "images/icons/node.js.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "NodeJS"}}
+                },
+                {
+                    "id": 7,
+                    "img": "images/icons/next.js.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "NextJS"}}
+                },
+                {
+                    "id": 8,
+                    "img": "images/icons/tailwind.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "TailwindCSS"}}
+                },
+                {
+                    "id": 9,
+                    "img": "images/icons/graphql.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "GraphQL"}}
+                },
+                {
+                    "id": 10,
+                    "img": "images/icons/junit.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "JUnit"}}
+                },
+                {
+                    "id": 9,
+                    "img": "images/icons/maven.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Maven"}}
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Databases}} & Data Handling"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/icons/mysql.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "MySQL"}}
+                },
+                {
+                    "id": 2,
+                    "img": "images/icons/postgresql1.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "PostgreSQL"}}
+                },
+                {
+                    "id": 3,
+                    "img": "images/icons/mongodb.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "MongoDB"}}
+                },
+                {
+                    "id": 4,
+                    "img": "images/icons/pandas.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Pandas"}}
+                },
+                {
+                    "id": 5,
+                    "img": "images/icons/numpy.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "NumPy"}}
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{DevOps}} & Cloud"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/icons/git.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Git"}}
+                },
+                {
+                    "id": 2,
+                    "img": "images/icons/github.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Github"}}
+                },
+                {
+                    "id": 3,
+                    "img": "images/icons/docker.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Docker"}}
+                },
+                {
+                    "id": 4,
+                    "img": "images/icons/kubernetes.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Kubernetes"}}
+                },
+                {
+                    "id": 5,
+                    "img": "images/icons/jenkins.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Jenkins"}}
+                },
+                {
+                    "id": 6,
+                    "img": "images/icons/linux.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Linux"}}
+                },
+                {
+                    "id": 7,
+                    "img": "images/icons/aws.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "AWS"}}
+                },
+                {
+                    "id": 8,
+                    "img": "images/icons/gcp.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "GCP"}}
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Additional}} skills"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/icons/postman.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Postman"}}
+                },
+                {
+                    "id": 2,
+                    "img": "images/icons/sonarqube.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "SonarQube"}}
+                },
+                {
+                    "id": 3,
+                    "img": "images/icons/selenium.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Selenium"}}
+                },
+                {
+                    "id": 4,
+                    "img": "images/icons/jira.png",
+                    "date": {"year": null, "month": null},
+                    "locales": {"en": {"title": "Jira"}}
+                }
+            ]
+        }
+    ]
+}

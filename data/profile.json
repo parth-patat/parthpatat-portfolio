@@ -1,0 +1,20 @@
+{
+    "name": "Parth Patat",
+    "profilePictureUrl": "images/content/profilep.png",
+    "resumePdfUrl": "https://drive.google.com/file/d/16OXfxAuTtweGi1Zp9Z0PPWb_NSrCgsus/view",
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+    "locales": {
+        "en": {
+            "localized_name": "Parth Patat",
+            "localized_name_stylized": "<strong>Parth {{Patat}}</strong>",
+            "status_message_available_for_freelance": "Seeking Full-time developer roles!",
+            "roles": [
+                "Software Engineer", "Full-Stack Developer", "Gamer"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        }
+    }
+}

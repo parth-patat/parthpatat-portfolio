@@ -1,0 +1,95 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Projects",
+                "title_short_nav": "Projects",
+                "title_long_prefix": "Some ideas turned into code...",
+                "title_long": "Personal {{Projects}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": ""
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-solid fa-file-code",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/parth-patat/api_directory", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "API Directory Web App",
+                            "text": "An API explorer consisting 1K+ open-source API references with dynamic search, filters, pagination, query indexing, secure CRUD operations, JWT-based authentication, RBAC and structured admin APIs to manage users and entries.",
+                            "tags": ["J2EE", "JavaScript", "Spring Boot", "MySQL"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://public.tableau.com/app/profile/prit.thakkar7610/viz/DVProjectF1/Dashboard", "tooltipString": "open_website", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Formula 1 Analytics Dashboard",
+                            "text": "Interactive dashboard featuring filters, team/driver comparisons, strategic insights, track trends, performance shifts, and pit timing patterns from cleaned, indexed datasets. Intended for race enthusiats and sports analysts.",
+                            "tags": ["Tableau", "Python", "SQL", "Pandas", "Numpy"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-book",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
+                    "preview": {
+                        "links": [
+                            {"tooltipString": "", "faIcon": ""}
+                        ],
+                        "screenshots": [
+                        ],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "E-learning Quiz Platform",
+                            "text": "A quiz platform with secured login, timed MCQs, topic-based filtering, modular APIs for scoring, stats, and admin actions, included live score tracking, question randomization, and leaderboard visualizations and RBAC.",
+                            "tags": ["React", "NodeJS", "PostgreSQL", "ChartJS"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
