@@ -41,19 +41,6 @@
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "fa-solid fa-phone",
-                    "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
-                    "label": null,
-                    "link": {"href": null, "tooltipString": null},
-                    "locales": {
-                        "en": {
-                            "title": "[[Phone]]",
-                            "text": "{{+1 (602) 582-5859}}"
-                        }
-                    }
-                },
-                {
-                    "id": 2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
                     "label": null,
@@ -66,7 +53,7 @@
                     }
                 },
                 {
-                    "id": 3,
+                    "id": 2,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
                     "label": null,
@@ -79,7 +66,7 @@
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": {"bg": "", "bgLight": "", "fill": "", "fillLight": ""},
                     "label": null,
